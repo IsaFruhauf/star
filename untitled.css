@@ -1,4 +1,13 @@
 p {
 	font-size: 30px;
-	background: yellow;
+	background: pink;
+}
+		strong {
+		background: hotpink;
+}
+			em {
+			background: deeppink;
+}
+				h1 {
+				background: hotpink;
 }
